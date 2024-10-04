@@ -7,14 +7,15 @@
 			"files": [
 				"/Users/aaron/Library/CloudStorage/OneDrive-SamfordUniversity/Fall 2024/COSC 420/NursingVR/nursingVR/Content/StarterContent/Maps/StarterMap_BuiltData.uasset",
 				"/Users/aaron/Library/CloudStorage/OneDrive-SamfordUniversity/Fall 2024/COSC 420/NursingVR/nursingVR/Content/buildingBlocks/bp_exteriorWall.uasset",
-				"/Users/aaron/Library/CloudStorage/OneDrive-SamfordUniversity/Fall 2024/COSC 420/NursingVR/nursingVR/Content/characters/bp_patientTable.uasset",
 				"/Users/aaron/Library/CloudStorage/OneDrive-SamfordUniversity/Fall 2024/COSC 420/NursingVR/nursingVR/Content/materials/wood/m_Wood.uasset",
 				"/Users/aaron/Library/CloudStorage/OneDrive-SamfordUniversity/Fall 2024/COSC 420/NursingVR/nursingVR/Content/materials/wood/dark_wood_diff_4k.uasset",
 				"/Users/aaron/Library/CloudStorage/OneDrive-SamfordUniversity/Fall 2024/COSC 420/NursingVR/nursingVR/Content/materials/wood/dark_wood_disp_4k.uasset",
 				"/Users/aaron/Library/CloudStorage/OneDrive-SamfordUniversity/Fall 2024/COSC 420/NursingVR/nursingVR/Content/materials/wood/dark_wood_nor_gl_4k.uasset",
 				"/Users/aaron/Library/CloudStorage/OneDrive-SamfordUniversity/Fall 2024/COSC 420/NursingVR/nursingVR/Content/materials/wood/dark_wood_rough_4k.uasset",
 				"/Users/aaron/Library/CloudStorage/OneDrive-SamfordUniversity/Fall 2024/COSC 420/NursingVR/nursingVR/Content/userInterfaces/bUI_sampleObjectiveList.uasset",
-				"/Users/aaron/Library/CloudStorage/OneDrive-SamfordUniversity/Fall 2024/COSC 420/NursingVR/nursingVR/Content/objects/bp_patientTable.uasset"
+				"/Users/aaron/Library/CloudStorage/OneDrive-SamfordUniversity/Fall 2024/COSC 420/NursingVR/nursingVR/Content/objects/bp_patientTable.uasset",
+				"/Users/aaron/Library/CloudStorage/OneDrive-SamfordUniversity/Fall 2024/COSC 420/NursingVR/nursingVR/Content/userInterfaces/bUI_pauseMenu.uasset",
+				"/Users/aaron/Library/CloudStorage/OneDrive-SamfordUniversity/Fall 2024/COSC 420/NursingVR/nursingVR/Content/characters/bp_patientTable.uasset"
 			]
 		}
 	]

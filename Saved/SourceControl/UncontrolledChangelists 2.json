@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/quincycrittendon/Documents/Unreal Projects/MyProject/Content/StarterContent/Maps/StarterMap_BuiltData.uasset",
+				"/Users/quincycrittendon/Documents/Unreal Projects/MyProject/Content/UI/NewWidgetBlueprint.uasset",
+				"/Users/quincycrittendon/Documents/Unreal Projects/MyProject/Content/UI/UIMainMenu.uasset",
+				"/Users/quincycrittendon/Documents/Unreal Projects/MyProject/Content/UI/VR_Nursing_image.uasset",
+				"/Users/quincycrittendon/Documents/Unreal Projects/MyProject/Content/MainMenuforVR.umap",
+				"/Users/quincycrittendon/Documents/Unreal Projects/MyProject/Content/UI/MainMenuWidget.uasset"
+			]
+		}
+	]
+}

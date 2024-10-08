@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"/Users/jordangoldsmith/Dropbox/nursingVR/NursingVR/nursingVR/Content/Characters/rp_nathan_animated_003_walking.uasset",
+				"/Users/jordangoldsmith/Dropbox/nursingVR/NursingVR/nursingVR/Content/Characters/rp_nathan_animated_003_mat.uasset",
+				"/Users/jordangoldsmith/Dropbox/nursingVR/NursingVR/nursingVR/Content/Characters/rp_nathan_animated_003_dif.uasset",
+				"/Users/jordangoldsmith/Dropbox/nursingVR/NursingVR/nursingVR/Content/Characters/rp_nathan_animated_003_walking_Skeleton.uasset",
+				"/Users/jordangoldsmith/Dropbox/nursingVR/NursingVR/nursingVR/Content/Characters/rp_nathan_animated_003_walking_PhysicsAsset.uasset",
 				"/Users/aaron/Library/CloudStorage/OneDrive-SamfordUniversity/Fall 2024/COSC 420/NursingVR/nursingVR/Content/StarterContent/Maps/StarterMap_BuiltData.uasset",
 				"/Users/aaron/Library/CloudStorage/OneDrive-SamfordUniversity/Fall 2024/COSC 420/NursingVR/nursingVR/Content/buildingBlocks/bp_exteriorWall.uasset",
 				"/Users/aaron/Library/CloudStorage/OneDrive-SamfordUniversity/Fall 2024/COSC 420/NursingVR/nursingVR/Content/materials/wood/m_Wood.uasset",

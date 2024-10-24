@@ -1,9 +1,22 @@
+# macOS system files
 **/.DS_Store
-**.png
-nursingVR/Saved/Config/CrashReportClient/
+
+# Exclude all PNG files across the project
+**/*.png
+
+# Specific folders in the nursingVR directory
+nursingVR/Saved/Config/CrashReportClient/*
 nursingVR/Saved/Config/MacEditor/SourceControlSettings.ini
 nursingVR/Saved/Config/WorldState/
+
+# Exclude all files under nursingVR/Saved/Config/MacEditor
 nursingVR/Saved/Config/MacEditor/*
+
+# Auto-screenshot image
 nursingVR/Saved/AutoScreenshot.png
+
+# Intermediate cache file
 nursingVR/Intermediate/CachedAssetRegistry_0.bin
+
+# Telemetry file
 nursingVR/Saved/Telemetry/Telemetry.json

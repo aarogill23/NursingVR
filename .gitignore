@@ -1,9 +1,9 @@
 **/.DS_Store
 **.png
-	nursingVR/Saved/Config/CrashReportClient/
-	nursingVR/Saved/Config/MacEditor/SourceControlSettings.ini
-	nursingVR/Saved/Config/WorldState/
-	nursingVR/Saved/Config/MacEditor/*
-	nursingVR/Saved/AutoScreenshot.png
-	nursingVR/Intermediate/CachedAssetRegistry_0.bin
-	nursingVR/Saved/Telemetry/Telemetry.json
+nursingVR/Saved/Config/CrashReportClient/
+nursingVR/Saved/Config/MacEditor/SourceControlSettings.ini
+nursingVR/Saved/Config/WorldState/
+nursingVR/Saved/Config/MacEditor/*
+nursingVR/Saved/AutoScreenshot.png
+nursingVR/Intermediate/CachedAssetRegistry_0.bin
+nursingVR/Saved/Telemetry/Telemetry.json

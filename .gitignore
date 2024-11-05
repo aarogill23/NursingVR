@@ -8,6 +8,7 @@
 nursingVR/Saved/Config/CrashReportClient/*
 nursingVR/Saved/Config/MacEditor/SourceControlSettings.ini
 nursingVR/Saved/Config/WorldState/
+nursingVR/Saved/Autosaves/*
 
 # Exclude all files under nursingVR/Saved/Config/MacEditor
 nursingVR/Saved/Config/MacEditor/*

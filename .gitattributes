@@ -1,2 +1,0 @@
-uasset filter=lfs diff=lfs merge=lfs -text
-nursingVR/Content/AssetPack/ConsultationRoom/Maps/Scene_BuiltData.uasset filter=lfs diff=lfs merge=lfs -text

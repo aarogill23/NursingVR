@@ -6,6 +6,12 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/legom/Desktop/NursingVR/nursingVR/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/legom/Desktop/NursingVR/nursingVR/Content/AssetPack/ConsultationRoom/blueprints/bp_stethoscope.uasset",
+				"C:/Users/legom/Desktop/NursingVR/nursingVR/Content/objects/medicalEquipment/bp_scanner.uasset",
+				"C:/Users/legom/Desktop/NursingVR/nursingVR/Content/objects/medicalEquipment/bp_stethoscope.uasset",
+				"C:/Users/legom/Desktop/NursingVR/nursingVR/Content/__ExternalActors__/maps/lvlOne/E/UP/F7O15RGWOP20AZIVLHB0O3.uasset",
+				"C:/Users/legom/Desktop/NursingVR/nursingVR/Content/__ExternalActors__/maps/lvlOne/2/H9/KFZZPH7HIKDMPV3XWY7T2X.uasset",
+				"C:/Users/legom/Desktop/NursingVR/nursingVR/Content/objects/medicalEquipment/bp_facemask.uasset",
 				"/Users/jordangoldsmith/Dropbox/NursingVR/NursingVR/nursingVR/Content/StarterContent/Props/BlackPlastic.uasset",
 				"/Users/jordangoldsmith/Dropbox/NursingVR/NursingVR/nursingVR/Content/StarterContent/Props/BlackPlastic_001.uasset",
 				"/Users/jordangoldsmith/Dropbox/NursingVR/NursingVR/nursingVR/Content/StarterContent/Props/Buttons.uasset",

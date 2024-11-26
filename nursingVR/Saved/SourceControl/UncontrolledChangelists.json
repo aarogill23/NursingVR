@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/csSam/Desktop/nursingVR/nursingVR/Content/__ExternalActors__/maps/lvlOne/E/3Z/QOUFL8XG73YFXO27NRT222.uasset",
+				"C:/Users/csSam/Desktop/nursingVR/nursingVR/Content/StarterContent/BP_PlayerCharacter.uasset",
+				"C:/Users/csSam/Desktop/nursingVR/nursingVR/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/csSam/Desktop/nursingVR/nursingVR/Content/AssetPack/SimBlank/Blueprints/BP_SimPlayerController.uasset",
 				"/Users/jordangoldsmith/Dropbox/NursingVR/NursingVR/nursingVR/Content/StarterContent/Props/BlackPlastic.uasset",
 				"/Users/jordangoldsmith/Dropbox/NursingVR/NursingVR/nursingVR/Content/StarterContent/Props/BlackPlastic_001.uasset",
 				"/Users/jordangoldsmith/Dropbox/NursingVR/NursingVR/nursingVR/Content/StarterContent/Props/Buttons.uasset",
